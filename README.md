@@ -6,6 +6,8 @@ Gera QR é um gerador de QR Code desenvolvido em HTML, CSS e JavaScript. Ele uti
 # Como usar
 Para gerar um QR Code, basta acessar o site do Gera QR e inserir o dado que deseja converter em um código QR. Em seguida, clique em "Gerar QR" e o código QR será exibido na tela. Você também pode baixar o código QR gerado clicando no botão "Download".
 
+Teste ele aqui: *[Gera Qr](https://thankful-plant-0564d7a10.2.azurestaticapps.net/gerador.html)**
+
 # Tecnologias utilizadas
 O Gera QR foi desenvolvido usando as seguintes tecnologias:
 
